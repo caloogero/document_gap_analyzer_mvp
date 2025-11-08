@@ -1,0 +1,17 @@
+# Cell: Create Quick Setup Guide
+def create_setup_instructions():
+    """Create simple setup instructions for your friend"""
+    
+    instructions = """
+# 🚀 QUICK SETUP FOR YOUR FRIEND
+
+## What You Need:
+- Python 3.8+ installed
+- Jupyter Notebook
+- OpenAI API key
+
+## Setup Steps:
+
+### 1. Install Dependencies
+```bash
+pip install openai PyPDF2 pdfplumber python-docx pandas streamlit reportlab
